@@ -1,11 +1,3 @@
-###################### CSC258 Assembly Final Project #########################
-# This file contains our implementation of Dr Mario.
-#
-# Student 1: Aarav Tandon, 1009621036
-#
-# We assert that the code submitted here is entirely our own 
-# creation, and will indicate otherwise when it is not.
-#
 ######################## Bitmap Display Configuration ########################
 # - Unit width in pixels:       8
 # - Unit height in pixels:      8
