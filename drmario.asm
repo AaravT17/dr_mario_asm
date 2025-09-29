@@ -10,9 +10,9 @@
 ##############################################################################
 # Immutable Data
 ##############################################################################
-# The address of the bitmap display. Don't forget to connect it!
+# The address of the bitmap display
 ADDR_DSPL: .word 0x10008000
-# The address of the keyboard. Don't forget to connect it!
+# The address of the keyboard
 ADDR_KBRD: .word 0xffff0000
 
 ##############################################################################
